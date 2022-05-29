@@ -1,3 +1,3 @@
-module github.com/koryheard/PersonTest
+module github.com/klheard/PersonTest
 
 go 1.18
